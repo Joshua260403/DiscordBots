@@ -33,3 +33,4 @@ async def on_message(message):
                 pass
 
 client.run('Mzc5NjUzNDY1Nzg3MzM0NjU3.DOtP_g.MHYr_AXhuuZaQwckxhMowXprd-I')
+# You can try that token but that is the old one.
